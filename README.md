@@ -1,6 +1,6 @@
 ### Hey 👋, It's me, Ankur!
 
-Hey! This is **Ankur Khandelwal**, an **budding tech enthusiast** and a **Computer Engineering student** from **IIIT  Bhubaneswar**
+Hey! This is **Ankur Khandelwal**, a **budding tech enthusiast** and a **Computer Engineering student** from **IIIT  Bhubaneswar**
 <!-- - 🔭 I’m currently working on Data Structures and Algorithms -->
 - 🌱 I’m currently learning Web Development over MERN Stack
 - 👯 I’m looking to collaborate on Web-Dev projects
