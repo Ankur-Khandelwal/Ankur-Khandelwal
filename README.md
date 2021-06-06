@@ -7,7 +7,7 @@ Hey! This is **Ankur Khandelwal**, an **budding tech enthusiast** and a **Comput
 - 🤔 I’m looking for help with my dream project - [Ratenect](https://cbrtl.github.io/posts/ratenect/)
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ankur-k-918446139/)
 - ⚡ Fun fact: Google, Microsoft, Apple, HP, all started in a garage!
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="350"/>
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="325"/>
   
 ### My Tech Stack 
 <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>&nbsp;
