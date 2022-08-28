@@ -4,8 +4,8 @@ Hey! This is **Ankur Khandelwal**, a **budding tech enthusiast** and a **Compute
 <!-- - 🔭 I’m currently working on Data Structures and Algorithms -->
 - 🌱 I’m currently learning Web Development over MERN Stack
 - 👯 I’m looking to collaborate on Web-Dev projects
-- 🤔 I’m looking for help with my project - [Ratenect](https://cbrtl.github.io/posts/ratenect/)
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ankur-k-918446139/)
+- 🤔 I’m looking for help with my project - [Ratenect](https://github.com/Ankur-Khandelwal/ratenect-frontend)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ankurkh1/)
 - ⚡ Fun fact: Google, Microsoft, Apple, HP, all started in a garage!
   <img align="right" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="325"/>
   
