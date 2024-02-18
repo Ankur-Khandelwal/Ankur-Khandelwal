@@ -1,11 +1,10 @@
 ### Hey 👋, It's me, Ankur!
 
-Hey! This is **Ankur Khandelwal**, a **budding tech enthusiast** and a **Computer Engineering student** from **IIIT  Bhubaneswar**
 <!-- - 🔭 I’m currently working on Data Structures and Algorithms -->
-- 🌱 I’m currently learning Web Development over MERN Stack
-- 👯 I’m looking to collaborate on Web-Dev projects
-- 🤔 I’m looking for help with my project - [Ratenect](https://github.com/Ankur-Khandelwal/ratenect-frontend)
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ankurkh1/)
+- 🌱 Learning Web Development over multiple stacks
+- 👯 Looking to collaborate on Web-Dev projects
+<!-- - 🤔 I’m looking for help with my project - [Ratenect](https://github.com/Ankur-Khandelwal/ratenect-frontend) -->
+- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/ankurkh1/)
 - ⚡ Fun fact: Google, Microsoft, Apple, HP, all started in a garage!
   <img align="right" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="325"/>
   
